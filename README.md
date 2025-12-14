@@ -22,6 +22,10 @@ Clone the repository
 Compile: javac TodoListManager.java
 Run: java TodoListManager
 
+## Screenshot
+
+![To-Do List Manager screenshot](./Screenshot.png)
+
 
 Author :
 
